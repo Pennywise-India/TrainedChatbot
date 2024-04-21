@@ -1,0 +1,4 @@
+You: what is the budget of defence in year 2011 
+DevBot: In 2011, the defence sector received 1,83,408 crores from the total budget of 12,58,744 crores, emphasizing a strong commitment to national security and defence readiness.
+
+ 
